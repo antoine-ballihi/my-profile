@@ -1,0 +1,167 @@
+body {
+	background-image:url(https://d1bvpoagx8hqbg.cloudfront.net/originals/experience-essec-business-school-paris-france-andrei-37f7abf8d52294b58d0c0fa13784628e.jpg);
+	
+	background-size: 100% 16% ;
+	
+	background-repeat: no-repeat;
+	color : brown;
+	font-family: modern love;   
+	font-weight: 2;
+	text-align: center;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+	border-radius: 12px;
+}
+
+h1 {
+	color : #151515;
+	font-family: ;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+
+}
+
+h2{
+	color: #80604D;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+h3{
+	color: #80604D;
+
+}
+
+
+/* Custom design with class */
+
+
+
+.container {
+	width :700px;
+	margin: 40px auto;
+	border-radius: 12px;
+}
+
+@media (max-width: 760px) {
+	.container{
+		width: 600px; 
+	}
+}
+
+@media (max-width: 500px) {
+	.container{
+		width: 400px; 
+	}
+}
+
+.card-white {
+	background-color: rgb(229,218,206);
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+	border-radius : 40px;
+	margin: 20px 0px;
+	text-align: center;
+	border-radius: 12px;
+
+}
+.card4 {
+	background-color: #FBFBEF;
+	padding: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+	border-radius : 30px;
+	margin: 10px 0px;
+	text-align: center;
+	border-radius: 12px;
+
+}
+.card2 {
+	background-color: #FBF8EF;
+	padding: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+	border-radius : 30px;
+	margin: 10px 0px;
+	text-align: center;
+	border-radius: 12px;
+
+}
+.card3 {
+	background-color: #F7F8E0;
+	padding: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+	border-radius : 30px;
+	margin: 10px 0px;
+	text-align: center;
+	border-radius: 12px;
+
+}
+.card1 {
+	background-color:#F7F2E0;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+	border-radius : 40px;
+	margin: 20px 0px;
+	text-align: center;
+	border-radius: 12px;
+
+}
+
+.card {
+	background-color: #FBF8EF;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+	border-radius : 40px;
+	margin: 20px 0px;
+	text-align: center;
+	border-radius: 12px;
+
+}
+.img-circle {
+	border-radius: 50%
+	
+}
+
+.btn-blue {
+	background-color: #c6a9a3;
+	color: white;
+	padding: 10px 10px;
+	border-radius: 4px;
+	text-decoration: none;
+}
+ .btn-blue:hover{
+ 	background-color: #350b40;
+ 	color: white;
+ }
+
+.list-inline li{
+	display: inline;
+	list-style: none;
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+.list-inline:hover {
+	background-color: #350b40
+	color: white;
+}
+
+.list-inline i {
+	font-size: 40px;
+}
+
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgb(196, 105, 143);
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+
+#img_me{
+	border-radius: 50%;
+
+}
+
+@media(max-width: 775px){
+.container{width: 600px;}
+	}
+}
